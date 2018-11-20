@@ -1,0 +1,78 @@
+
+  html{
+      -webkit-print-color-adjust:exact;
+    }      
+
+  .perfil{
+    float:left;
+    margin-left:70px;
+
+ }
+ h1,h3{
+     text-align: justify;
+     
+ }
+ html,pre{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+       .div1 {
+           
+            background:linear-gradient(to right, rgb(5, 77, 90),rgb(189, 7, 226));
+            width: 1000px;
+            /* border-bottom:10px  cyan; */
+            border-left: solid 6px black;
+            border-right: solid 6px black;
+        }
+        .div2 {
+            background: linear-gradient(to right, rgb(49, 54, 54) , rgba(229, 231, 115, 0.89));
+            border-bottom:10px solid rgb(216, 231, 5);
+            width: 1000px;
+            font-size: 20px;
+            border-left: solid 6px black;
+            border-right: solid 6px black;
+
+           
+        }
+        p{
+            font-weight: bold;
+            color: black ;
+            font-family: 'Times New Roman', Times, serif;
+        }
+        .div3 {
+            width: 1000px;
+            font-size: 20px;
+            background:linear-gradient(to right, rgb(61, 23, 13),rgb(189, 7, 226));
+            border-bottom:10px solid rgb(216, 231, 5);
+            border-left: solid 6px black;
+            border-right: solid 6px black;
+
+        }
+        .div4 {
+            clear: both;
+            font-size: 20px;
+            background: linear-gradient(to right, rgb(49, 54, 54) , rgba(229, 231, 115, 0.89));
+            width: 1000px;
+            border-bottom:10px solid rgb(10, 230, 145);
+            border-left: solid 6px black;
+            border-right: solid 6px black;
+
+        }
+        .div5 {
+            font-size: 20px;
+            background:linear-gradient(to right, rgb(61, 23, 13),rgb(189, 7, 226));
+            width: 1000px;
+            border-bottom:10px solid rgb(134, 238, 140);
+            border-left: solid 6px black;
+            border-right: solid 6px black;
+            font-weight: bold;
+            color: rgb(95, 5, 5);
+        }
+
+        /* _______________________________________________________________________________ */
+        .btitulos{
+            border-bottom: thin solid chartreuse;
+            text-align-last: center;
+            font-size: 150%;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            color: navy;
+        }
